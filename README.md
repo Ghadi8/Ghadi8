@@ -4,10 +4,6 @@
 
 # Hi there, I am Ghadi 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500" height="300"/>
-</div>
-
 ## :man_technologist: About Me :
 I am blockchain enthusiast who specializes in developing decentralized applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
