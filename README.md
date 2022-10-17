@@ -7,7 +7,7 @@
 ## :man_technologist: About Me :
 I am blockchain enthusiast who specializes in developing decentralized applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m currently working at CryptowareME
+- :telescope: I’m currently working at FOO_
 
 - :seedling: I’m currently completing my Msc in Blockchain and Digital Currencies
 
