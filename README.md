@@ -9,7 +9,7 @@ I am blockchain enthusiast who specializes in developing decentralized applicati
 
 - :telescope: I’m currently working at FOO_
 
-- :seedling: I’m currently completing my Msc in Blockchain and Digital Currencies
+- :seedling: Postgraduate degree in Blockchain and Digital Currencies from the University of Nicosia
 
 - 💬 Ask me about anything blockchain related
 
@@ -22,6 +22,7 @@ I am blockchain enthusiast who specializes in developing decentralized applicati
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" **alt="Gitlab" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" **alt="Polygon" width="50" height="50"/>&nbsp;
