@@ -9,7 +9,7 @@ I am blockchain enthusiast who specializes in developing decentralized applicati
 
 - :telescope: I’m currently working at FOO_
 
-- :seedling: Postgraduate degree in Blockchain and Digital Currencies from the University of Nicosia
+- :seedling: Holder of a postgraduate degree in Blockchain and Digital Currencies from the University of Nicosia
 
 - 💬 Ask me about anything blockchain related
 
