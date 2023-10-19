@@ -7,8 +7,6 @@
 ## :man_technologist: About Me :
 I am blockchain enthusiast who specializes in developing decentralized applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :telescope: I’m currently working at FOO_
-
 - :seedling: Holder of a postgraduate degree in Blockchain and Digital Currencies from the University of Nicosia
 
 - 💬 Ask me about anything blockchain related
