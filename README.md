@@ -9,7 +9,9 @@ I am blockchain enthusiast who specializes in developing decentralized applicati
 
 - :seedling: Holder of a postgraduate degree in Blockchain and Digital Currencies from the University of Nicosia
 
-- 💬 Ask me about anything blockchain related
+- Building [JustaName](https://github.com/JustaName-id)
+
+- 💬 Ask me anything blockchain related
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ghadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-mhawej/)
 
