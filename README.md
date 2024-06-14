@@ -13,7 +13,7 @@ I am blockchain enthusiast who specializes in developing decentralized applicati
 
 - 💬 Ask me anything blockchain related
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ghadi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-mhawej/)
+- :mailbox: How to reach me: [justghadi.eth](https://app.justaname.id/community/justghadi.eth)
 
 ## :hammer_and_wrench: Languages and Tools :
 
