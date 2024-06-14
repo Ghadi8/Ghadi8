@@ -9,7 +9,7 @@ I am blockchain enthusiast who specializes in developing decentralized applicati
 
 - :seedling: Holder of a postgraduate degree in Blockchain and Digital Currencies from the University of Nicosia
 
-- Building [JustaName](https://github.com/JustaName-id)
+-  <img src="https://github.com/Ghadi8/Ghadi8/assets/92851745/da0a4e52-1ddb-4641-995a-917435e58d78" alt="Logo" width="20" height="20"> Building [JustaName](https://github.com/JustaName-id)
 
 - 💬 Ask me anything blockchain related
 
