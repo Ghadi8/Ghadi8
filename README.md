@@ -13,4 +13,4 @@ I am blockchain enthusiast who specializes in developing decentralized applicati
 
 - 💬 Ask me anything blockchain related
 
-- :mailbox: How to reach me: [justghadi.eth](https://app.justaname.id/community/justghadi.eth)
+- :mailbox: How to reach me: [justghadi.eth](https://app.justaname.id?ens=justghadi.eth)
